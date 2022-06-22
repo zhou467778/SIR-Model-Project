@@ -1,5 +1,5 @@
 # SIR-Model-Project
-NEU Math 5131 - Mathematical Modeling final project: Analysis for SARS Epidemic in Hongkong, China Using SIR Model
+### NEU Math 5131 - Mathematical Modeling final project: Analysis for SARS Epidemic in Hongkong, China Using SIR Model
 
 At the end of February 2003, a viral respiratory disease - severe acute respiratory syndrome (SARS) was first identified and reported during an outbreak in China. The US Centers for Disease Control and Prevention (CDC) introduces it as “a viral respiratory illness caused by a coronavirus called SARS-associated coronavirus (SARS-CoV)”. In addition, before its globe outbreak was contained in July 2003, it spread to several different countries in Asia, North America, South America, and Europe. And it became the first serious new disease in 21st century that can be easily transmitted. Fortunately, there have been no reported cases of SARS in the world since 2004.
 
